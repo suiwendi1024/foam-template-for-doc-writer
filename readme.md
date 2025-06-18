@@ -16,24 +16,10 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
 4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
 
-After setting up the repository, head to [getting started](./getting-started.md) to get familiar with your new knowledge base!
-
 To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/user/recipes/recipes) bubbles of the Foam documentation workspace.
 
 And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
-## Using Foam
+## Foam + Doc Writer
 
-We've created a few Bubbles (Markdown documents) to get you started.
-
-- [inbox](./inbox.md) - a place to write down quick notes to be categorized later
-- [getting-started](./getting-started.md) - learn how to use your Foam workspace
-- [todo](./todo.md) - a place to keep track of things to do
-
-In the `docs` directory you can find everything you need to learn the basics of Foam.
-
-## Submitting Issues
-
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
-
-> <https://github.com/foambubble/foam>
+Doc Writer 是 VS Code 配置文件模板之一，自带设置和扩展。搭配 Foam 使用，可以方便地在编写文档和开发项目之间切换。
