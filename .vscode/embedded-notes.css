@@ -1,0 +1,11 @@
+.github-markdown-body > .github-markdown-content .github-markdown-body {
+  padding-bottom: 0 !important;
+}
+
+.github-markdown-body > .github-markdown-content .github-markdown-content {
+  padding: 0 !important;
+}
+
+.github-markdown-body > .github-markdown-content p:empty {
+  margin-bottom: 0 !important;
+}
