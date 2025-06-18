@@ -20,7 +20,8 @@
   "files.insertFinalNewline": true,
   "markdown.styles": [
     ".vscode/custom-tag-style.css",
-    ".vscode/embedded-notes.css"
+    ".vscode/embedded-notes.css",
+    ".vscode/footnotes.css"
   ],
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

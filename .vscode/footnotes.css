@@ -1,0 +1,7 @@
+.github-markdown-body hr {
+  height: 1px !important;
+}
+
+.github-markdown-body .footnotes {
+  border-top: 0 !important;
+}
